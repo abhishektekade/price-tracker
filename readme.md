@@ -2,6 +2,6 @@
 
 ## Tasks
 
-\*[x] Create a basic code for a page
+- [x] Create a basic code for a page
 
-\*[] Create a dropdown
+- [] Create a dropdown
